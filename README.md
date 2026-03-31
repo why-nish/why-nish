@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Taanish Nadar</h1>
+<h1 align="center">Hi 👋, I'm Taanish T. Nadar</h1>
 <h3 align="center">Aspiring Product Analyst | Product Analytics & Data-Driven Decision Making</h3>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
